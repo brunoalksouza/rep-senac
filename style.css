@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 98%;
+}
+
+.logo{
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  color: blue;
+  background-color: #AFEEEE;
+  text-align: center;
+}
+
+h2{
+  color: blue;
+  text-align: center;
+  background-color: #AFEEEE;
+}
+
+ul{
+  border: solid;
+  border-color: blue;
+}
